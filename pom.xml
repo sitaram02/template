@@ -24,12 +24,12 @@
     <snapshotRepository>
         <id>InternalSnapshots</id>
         <name>Internal Snapshots</name>
-        <url>http://18.191.148.18:8081/nexus-2.14.8-01/content/repositories/snapshots/</url>
+        <url>http://13.59.34.140:8081/nexus-2.14.8-01/content/repositories/snapshots/</url>
     </snapshotRepository>
     <repository>
         <id>InternalReleases</id>
         <name>Internal Releases</name>
-        <url>http://18.191.148.18:8081/nexus-2.14.8-01/content/repositories/releases/</url>
+        <url>http://13.59.34.140:8081/nexus-2.14.8-01/content/repositories/releases/</url>
     </repository>
 </distributionManagement>
 
