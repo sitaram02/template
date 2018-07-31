@@ -29,7 +29,7 @@
     <repository>
         <id>InternalReleases</id>
         <name>Internal Releases</name>
-        <url>http://18.222.93.154:8080/nexus-2.14.8-01/content/repositories/releases/</url>
+        <url>http://18.222.223.204:8080/nexus-2.14.8-01/content/repositories/releases</url>
     </repository>
 </distributionManagement>
 
