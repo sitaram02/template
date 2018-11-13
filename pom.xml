@@ -6,7 +6,7 @@
 
   <groupId>org.dep.sonatype</groupId>
   <artifactId>simple_webapp</artifactId>
-  <version>8.0</version>
+  <version>9.0</version>
   <packaging>war</packaging>
 
   <name>simple_webapp Maven Webapp</name>
