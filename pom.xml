@@ -6,7 +6,7 @@
 
   <groupId>org.dep.sonatype</groupId>
   <artifactId>simple_webapp</artifactId>
-  <version>31.0</version>
+  <version>32.0</version>
    <packaging>war</packaging>
 
   <name>simple_webapp Maven Webapp</name>
@@ -24,12 +24,12 @@
     <snapshotRepository>
         <id>InternalSnapshots</id>
         <name>Internal Snapshots</name>
-        <url>http://13.57.222.166:8080/nexus-latest/content/repositories/snapshots/</url>
+        <url>http://54.215.144.96:8080/nexus-latest/content/repositories/snapshots/</url>
     </snapshotRepository>
     <repository>
         <id>InternalReleases</id>
         <name>Internal Releases</name>
-        <url>http://13.57.222.166:8080/nexus-latest/content/repositories/releases/</url>
+        <url>http://54.215.144.96:8080/nexus-latest/content/repositories/releases/</url>
     </repository>
 </distributionManagement>
 
